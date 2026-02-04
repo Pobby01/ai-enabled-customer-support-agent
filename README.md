@@ -35,14 +35,4 @@ pip install -r requirements.txt
 export OPENAI_API_KEY="your-key"
 python app.py
 
-## Escalation Logic
 
-All High urgency tickets are escalated
-
-Bug and Technical Issues are escalated
-
-Simple queries are auto-replied
-
-## Sample Inputs
-
-See sample_emails.py
